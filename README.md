@@ -57,11 +57,11 @@
 
 <div align="center">
 
-![Chamath's Stats](https://github-readme-stats.vercel.app/api?username=Chamath2004&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Chamath's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chamath2004&theme=radical)
 ![Streak](https://streak-stats.demolab.com?user=Chamath2004&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamath2004&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chamath2004&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Chamath2004&theme=radical&no-frame=true&margin-w=6)
+![Trophies](https://github-trophies.vercel.app/?username=Chamath2004&theme=radical&no-frame=true&margin-w=6)
 
 </div>
 
